@@ -1,0 +1,15 @@
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\bin\Debug\net8.0\Payments.Orders.Domain.deps.json
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\bin\Debug\net8.0\Payments.Orders.Domain.dll
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\bin\Debug\net8.0\Payments.Orders.Domain.pdb
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\Payments.Orders.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\Payments.Orders.Domain.AssemblyInfoInputs.cache
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\Payments.Orders.Domain.AssemblyInfo.cs
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\Payments.Orders.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\Payments.Orders.Domain.sourcelink.json
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\Payments.Orders.Domain.dll
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\refint\Payments.Orders.Domain.dll
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\Payments.Orders.Domain.pdb
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\ref\Payments.Orders.Domain.dll
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\Payments.Orders.Domain.csproj.AssemblyReference.cache
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\bin\Debug\net8.0\Payments.Orders.Domain.runtimeconfig.json
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Domain\obj\Debug\net8.0\Payments.Orders.Domain.genruntimeconfig.cache

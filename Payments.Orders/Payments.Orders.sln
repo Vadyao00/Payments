@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payments.Orders", "Payments.Orders\Payments.Orders.csproj", "{99972BAB-E3D5-44E4-BCB1-18326A1C74F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payments.Orders.Web", "Payments.Orders.Web\Payments.Orders.Web.csproj", "{99972BAB-E3D5-44E4-BCB1-18326A1C74F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payments.Orders.Domain", "Payments.Orders.Domain\Payments.Orders.Domain.csproj", "{B07D735A-F5BE-4839-A37C-F70CC7AB8FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paymnets.Orders.Application", "Paymnets.Orders.Application\Paymnets.Orders.Application.csproj", "{F2854DB3-9740-41D6-B7A1-735005B3A469}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{99972BAB-E3D5-44E4-BCB1-18326A1C74F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99972BAB-E3D5-44E4-BCB1-18326A1C74F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99972BAB-E3D5-44E4-BCB1-18326A1C74F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07D735A-F5BE-4839-A37C-F70CC7AB8FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07D735A-F5BE-4839-A37C-F70CC7AB8FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07D735A-F5BE-4839-A37C-F70CC7AB8FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07D735A-F5BE-4839-A37C-F70CC7AB8FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2854DB3-9740-41D6-B7A1-735005B3A469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2854DB3-9740-41D6-B7A1-735005B3A469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2854DB3-9740-41D6-B7A1-735005B3A469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2854DB3-9740-41D6-B7A1-735005B3A469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

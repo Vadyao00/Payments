@@ -17,6 +17,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Payments.Orders.Domain\Payments.Orders.Domain.csproj" />
+      <ProjectReference Include="..\Paymnets.Orders.Application\Paymnets.Orders.Application.csproj" />
     </ItemGroup>
 
 </Project>

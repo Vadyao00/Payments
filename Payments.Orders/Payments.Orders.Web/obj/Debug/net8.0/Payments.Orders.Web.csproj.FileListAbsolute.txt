@@ -112,3 +112,5 @@ D:\Projects\Payments\Payments.Orders\Payments.Orders.Web\bin\Debug\net8.0\ru\Mic
 D:\Projects\Payments\Payments.Orders\Payments.Orders.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projects\Payments\Payments.Orders\Payments.Orders.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projects\Payments\Payments.Orders\Payments.Orders.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Web\bin\Debug\net8.0\Paymnets.Orders.Application.dll
+D:\Projects\Payments\Payments.Orders\Payments.Orders.Web\bin\Debug\net8.0\Paymnets.Orders.Application.pdb

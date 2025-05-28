@@ -11,6 +11,7 @@
           "Microsoft.AspNetCore.OpenApi": "8.0.16",
           "Microsoft.EntityFrameworkCore.Design": "8.0.11",
           "Payments.Orders.Domain": "1.0.0",
+          "Paymnets.Orders.Application": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -583,6 +584,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Paymnets.Orders.Application/1.0.0": {
+        "dependencies": {
+          "Payments.Orders.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Paymnets.Orders.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -908,6 +920,11 @@
       "hashPath": "system.threading.channels.6.0.0.nupkg.sha512"
     },
     "Payments.Orders.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Paymnets.Orders.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

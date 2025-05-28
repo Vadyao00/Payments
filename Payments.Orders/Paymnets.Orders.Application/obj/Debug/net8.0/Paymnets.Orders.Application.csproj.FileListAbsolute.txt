@@ -10,3 +10,7 @@ D:\Projects\Payments\Payments.Orders\Paymnets.Orders.Application\obj\Debug\net8.
 D:\Projects\Payments\Payments.Orders\Paymnets.Orders.Application\obj\Debug\net8.0\refint\Paymnets.Orders.Application.dll
 D:\Projects\Payments\Payments.Orders\Paymnets.Orders.Application\obj\Debug\net8.0\Paymnets.Orders.Application.pdb
 D:\Projects\Payments\Payments.Orders\Paymnets.Orders.Application\obj\Debug\net8.0\ref\Paymnets.Orders.Application.dll
+D:\Projects\Payments\Payments.Orders\Paymnets.Orders.Application\bin\Debug\net8.0\Payments.Orders.Domain.dll
+D:\Projects\Payments\Payments.Orders\Paymnets.Orders.Application\bin\Debug\net8.0\Payments.Orders.Domain.pdb
+D:\Projects\Payments\Payments.Orders\Paymnets.Orders.Application\obj\Debug\net8.0\Paymnets.Orders.Application.csproj.AssemblyReference.cache
+D:\Projects\Payments\Payments.Orders\Paymnets.Orders.Application\obj\Debug\net8.0\Paymnets.D0FB0E8D.Up2Date

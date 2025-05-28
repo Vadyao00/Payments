@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using Payments.Orders.Domain;
+using Paymnets.Orders.Application.Abstractions;
+using Paymnets.Orders.Application.Services;
 
 namespace Payments.Orders.Web.Extensions;
 
@@ -53,6 +55,9 @@ public static class ServiceCollectionsExtensions
 
     public static WebApplicationBuilder AddApplicationServices(this WebApplicationBuilder builder)
     {
+        builder.Services.AddScoped<ICartsService, CartsService>();
+        builder.Services.AddScoped<IOrdersService, OrdersService>();
+        
         return builder;
     }
     

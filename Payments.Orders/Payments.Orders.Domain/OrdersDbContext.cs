@@ -1,9 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Payments.Orders.Domain.Entities;
 
 namespace Payments.Orders.Domain;
 
-public class OrdersDbContext : DbContext
+public class OrdersDbContext : IdentityDbContext<UserEntity, IdentityRoleEntity, long>
 {
     public OrdersDbContext(DbContextOptions<OrdersDbContext> options) : base(options)
     {
